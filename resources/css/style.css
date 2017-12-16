@@ -163,7 +163,7 @@ section {
   background-color: white;
   margin: 16px;
   /* border: 1px solid black; */
-  height: 350px;
+  min-height: 350px;
 }
 
 .subject-image img{
