@@ -76,16 +76,17 @@ nav li {
   width: 65%;
 }
 
-.sidecard-text h3{
-  font-size: 1.5rem;
-}
-
 #online {
   background-color: #ccc;
 }
 
+#online h3, #thesis h3 {
+  text-align: center;
+}
+
 #online-courses {
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .subject-card {
