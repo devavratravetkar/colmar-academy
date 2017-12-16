@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Oxygen', 'Helvetica', sans-serif;
   line-height: 1.2;
 }
 
@@ -202,6 +202,7 @@ section {
 
 .subject-details h5 {
   text-transform: uppercase;
+  font-weight: lighter;
 }
 
 #thesis {
